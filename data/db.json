@@ -95,6 +95,12 @@
       "kürzel": "dgvs",
       "title": "dd",
       "email": "erika-m@mustermann"
+    },
+    {
+      "id": "19ac",
+      "kürzel": "vfdg",
+      "title": "deh",
+      "email": "erika@mustermann"
     }
   ],
   "submissions": [
@@ -160,6 +166,13 @@
       "item": "d",
       "people": "1",
       "listId": "bac3"
+    },
+    {
+      "id": "9c9e",
+      "name": "hf",
+      "item": "fhg",
+      "people": "fh",
+      "listId": "19ac"
     }
   ]
 }

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { toast } from "sonner";
+import "../model/listViewForm.css"
 
 interface Submission {
   id: string;
@@ -120,3 +121,4 @@ export default function DetailViewRoute() {
     </div>
   );
 }
+//
