@@ -1,0 +1,165 @@
+{
+  "persons": [
+    {
+      "id": "6fb1",
+      "kürzel": "iad",
+      "title": "party",
+      "email": "web@muster.com"
+    },
+    {
+      "id": "790e",
+      "kürzel": "ds",
+      "title": "fj",
+      "email": "gencayali20@gmail.com"
+    },
+    {
+      "id": "5499",
+      "kürzel": "ds",
+      "title": "Iad",
+      "email": "ge@gmail.com"
+    },
+    {
+      "id": "1ff6",
+      "kürzel": "max",
+      "title": "herr",
+      "email": "gencfu@gmail.com"
+    },
+    {
+      "id": "c856",
+      "kürzel": "ds",
+      "title": "c",
+      "email": "sdas@gs"
+    },
+    {
+      "id": "fffa",
+      "kürzel": "SD",
+      "title": "sc",
+      "email": "gencayali20@gmail.com"
+    },
+    {
+      "id": "4c62",
+      "kürzel": "T)",
+      "title": "%",
+      "email": "gencayali20@gmail.com"
+    },
+    {
+      "id": "87c9",
+      "kürzel": "EF",
+      "title": "FSW",
+      "email": "gencayali20@gmail.com"
+    },
+    {
+      "id": "46ac",
+      "kürzel": "ff",
+      "title": "SVS",
+      "email": "gencayali20@gmail.com"
+    },
+    {
+      "id": "4ed3",
+      "kürzel": "AAA",
+      "title": "trefee",
+      "email": "gencayali20@gmail.com"
+    },
+    {
+      "id": "c62f",
+      "kürzel": "krz",
+      "title": "fre",
+      "email": "gencayali20@gmail.com"
+    },
+    {
+      "id": "5ccf",
+      "kürzel": "htr",
+      "title": "htd",
+      "email": "gencayali20@gmail.com"
+    },
+    {
+      "id": "d5d0",
+      "kürzel": "poeme",
+      "title": "sv",
+      "email": "ali20@gmail.com"
+    },
+    {
+      "id": "74ab",
+      "kürzel": "hfa",
+      "title": "IAD",
+      "email": "yali20@gmail.com"
+    },
+    {
+      "id": "8bb5",
+      "kürzel": "as",
+      "title": "sf",
+      "email": "hzrth@dhd"
+    },
+    {
+      "id": "bac3",
+      "kürzel": "dgvs",
+      "title": "dd",
+      "email": "erika-m@mustermann"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "1d98",
+      "name": "Mehmet",
+      "item": "Kekse",
+      "people": "2",
+      "listId": "6fb1"
+    },
+    {
+      "name": "Kolja",
+      "item": "wein, bier",
+      "people": "1",
+      "listId": "6fb1",
+      "id": "d5e5"
+    },
+    {
+      "name": "lukas",
+      "item": "kleber",
+      "people": "3",
+      "listId": "b3e1",
+      "id": "ebe0"
+    },
+    {
+      "id": "2d2b",
+      "name": "sd",
+      "item": "ds",
+      "people": "ds",
+      "listId": "c856"
+    },
+    {
+      "id": "ff14",
+      "name": "Mehmet Ali Gencay",
+      "item": "apfel",
+      "people": "2",
+      "listId": "d5d0"
+    },
+    {
+      "id": "7812",
+      "name": "murat",
+      "item": "aS",
+      "people": "2",
+      "listId": "d5d0"
+    },
+    {
+      "id": "3e50",
+      "name": "kolya",
+      "item": "apfel",
+      "people": "4",
+      "listId": "74ab"
+    },
+    {
+      "id": "24c2",
+      "name": "sdf",
+      "item": "sdf",
+      "people": "6",
+      "listId": "8bb5"
+    },
+    {
+      "id": "c4ad",
+      "name": "d",
+      "item": "d",
+      "people": "1",
+      "listId": "bac3"
+    }
+  ]
+}
